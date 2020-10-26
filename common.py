@@ -8,8 +8,8 @@ CACHED_FOLDER = '/home/sotola/Coding/cache'
 PATTERN_HOSE_SNAPSHOT = "HOSE_SNAPSHOT"
 PARSED_DIR = "/home/sotola/Coding/parsed"
 BIL = 1000*1000*1000
-
-
+PWIDTH = 1400
+PHEIGHT = 600
 
 def exec3(cmd): #
   #print(f"****\n running: {cmd} ****")
