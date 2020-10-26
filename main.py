@@ -1,6 +1,6 @@
 from common import *
 
-
+#
 class O:
 
     def __init__(self):
